@@ -282,6 +282,10 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:07f90f2912ebcf26b4b372a79e7ac91a2ff5f426e9aabc6b81b30298e18f47f6
 
 ## Sonus SD-WAN
+### Sonus SBC Management Application
+#### Shodan
+title:"SBC Management Application"
+
 ### Sonus SBC Edge
 #### Shodan
 * title:"Sonus SBC Edge Web Interface"
