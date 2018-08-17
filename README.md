@@ -6,7 +6,7 @@ The goal of this project is to give answers on the questions by analysing differ
 
 ## Resources
 * [SD-WAN Census](census.md)
-* [Silverpeak EdgeConnect Multiple Vulnerabilities](Silverpeak EdgeConnect Multiple Vulnerabilities - 032018.pdf)
+* [Silverpeak EdgeConnect Multiple Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
 
 ## Talks
 * SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018.
