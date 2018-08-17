@@ -6,13 +6,14 @@ The goal of this project is to give answers on the questions by analysing differ
 
 ## Resources
 * [SD-WAN Census](census.md)
+* [Silverpeak EdgeConnect Multiple Vulnerabilities](Silverpeak EdgeConnect Multiple Vulnerabilities - 032018.pdf)
 
 ## Talks
 * SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018.
 * Too Soft[ware Defined] Networks: SD-WAN VulnerabilityAssessment. Black Hat USA 2018 ([slides](sdwan-bhusa2018.pdf)).
 
 ## Contributors
-- [Sergey Gordeychick](https://twitter.com/scadasl)
+- [Sergey Gordeychik](https://twitter.com/scadasl)
 - [Alex Timorin](https://twitter.com/atimorin)
 - [Denis Kolegov](https://twitter.com/dnkolegov)
 - Maxim Gorbunov
