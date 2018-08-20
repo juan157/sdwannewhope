@@ -47,7 +47,7 @@ def add_to_array(res,res_csv, elem):
 
 def nmap_script_exec(nm, ip, port, script):
 
-    res = nm.scan(ip, str(port), arguments='-Pn --script=./nmap_scripts/'+script)
+    res = nm.scan(ip, str(port), arguments='-Pn --script=./nse-scripts/'+script)
     script_name = script.split(".")[0]
     raw_script = res["scan"][ip]["tcp"][port].get("script")
     if raw_script is None: return None
