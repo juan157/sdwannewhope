@@ -5,12 +5,13 @@ What do you know about SD-WAN? What the "security" means from hand-on perspectiv
 The goal of this project is to give answers on the questions by analysing different real SD-WAN solutions from the adversaries' point of view.
 
 ## Resources
-* [SD-WAN Census](census.md)
+* [SD-WAN Census Queries List](census.md)
+* [SD-WAN NMAP NSE Scripts](nse-scripts)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
 
 ## Talks
-* SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018.
-* Too Soft[ware Defined] Networks: SD-WAN Vulnerability Assessment. Black Hat USA 2018 ([slides](sdwan-bhusa2018.pdf)).
+* SD-WAN New Hop. Practical threat modelling for SD-WAN. Area 41. 2018
+* [Too Soft[ware Defined] Networks: SD-WAN Vulnerability Assessment. Black Hat USA 2018](sdwan-bhusa2018.pdf)
 
 ## Contributors
 - [Sergey Gordeychik](https://twitter.com/scadasl)
