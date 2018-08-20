@@ -324,7 +324,7 @@ title:"SBC Management Application"
 * 80.http.get.title: "Sonus SBC Edge Web Interface"
 
 ## Arista Networks
-Confidence: Firm
+Confidence: Certain
 
 ### Arista Networks EOS
 #### Shodan
