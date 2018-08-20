@@ -27,6 +27,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Barracuda Networks](#barracuda-networks)
 
 ## VMWare NSX SD-WAN
+Confidence: Certain
+
 ### Google
 * intitle:"Welcome to VeloCloud Page"
 * "2013-2017 VeloCloud Networks"
@@ -42,6 +44,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:ebaa382148c391357fa0976ccb8cf947a035e8be642190a4c9dff2c8a6ce1a0a
 
 ## TELoIP VINO SD-WAN
+Confidence: Certain
+
 ### Google
 * intitle:"Teloip Orchestrator API"
 * "The following operations are supported. For a formal definition, please review the Service XSD."
@@ -53,6 +57,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body: "The following operations are supported. For a formal definition, please review the Service XSD." AND "Teloip Orchestrator API"
 
 ## Fatpipe SYMPHONY SD-WAN
+Confidence: Certain
+
 ### Google
 * inurl:/fpui/jsp/login.jsp
 * intitle:"FatPipe WARP" "Log in"
@@ -66,6 +72,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256: 81a46930a7041737c0c2b94299c14672e192ae4555fccd88cbc369755e84edc7
 
 ## Cisco SD-WAN
+Confidence: Certain
+
 ### Google
 * intitle:"Cisco vManage"
 * intitle:"Viptela vManage"
@@ -84,6 +92,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * (443.https.tls.certificate.parsed.fingerprint_sha256: "ad4c8962d687837c54a3430e869aadfc359db7fd07d9b0630ec2f355aa7b896a" AND 443.https.tls.certificate.parsed.issuer.common_name: "vmanage") AND protocols.raw: "443/https"
 
 ## Versa Networks
+Confidence: Certain
 
 ### Versa Analytics
 #### Shodan
@@ -122,6 +131,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 443.https.tls.certificate.parsed.subject_dn:"C=US, ST=California, O=versa-networks, OU=VersaDirector, CN=Director01"
 
 ## Riverbed 
+Confidence: Certain
 
 ### Riverbed SteelConnect
 ### Google
@@ -148,6 +158,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * "This SteelHead WAN optimization appliance is centrally managed as part of the AWS automation features within Riverbed SteelConnect."
 
 ## Citrix NetScaler SD-WAN
+Confidence: Certain
 
 ### Citrix NetScaler SD-WAN VPX
 
@@ -173,6 +184,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 443.https.tls.certificate.parsed.names:mycitrixdemo.net AND `"<span>NetScaler</span>"`
 
 ## Silver Peak
+Confidence: Certain
 
 ### Silver Peak Unity Orchestrator
 ### Google
@@ -197,6 +209,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body: "By using this product, you agree to be bound by the terms of Silver Peak Systems Inc. " AND 443.https.tls.certificate.parsed.issuer.common_name: "silver-peak"
 
 ## CloudGenix SD-WAN
+Confidence: Firm
+
 ### Shodan
 * ssl:"O=CloudGenix Inc"
 
@@ -204,6 +218,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 443.https.tls.chain.parsed.issuer.organization:"CloudGenix Inc"
 
 ## Ecessa WANworX SD-WAN
+Confidence: Tentative
+
 ### Google
 * inurl:"/cgi-bin/pl_web.cgi/login1"
 
@@ -214,6 +230,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:7b9091bf0d0e65b6bcefa62a81dacc1d30fdf5344aa1d022865822a623aac987
 
 ## Nuage Networks SD-WAN (VNS)
+Confidence: Certain
+
 ### Shodan
 * title:"SD-WAN*Portal"
 * http.favicon.hash:1069145589
@@ -226,11 +244,15 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:c0485f458c574e884168ba9fa07baf16ce86b761ac4dbf81dab9c0f87ed94ed2
 
 ## Juniper Networks Contrail SD-WAN
+Confidence: Tentative
+
 ### Shodan
 * title:"Log In - Juniper Networks Web Management"
 * "Juniper Networks, Inc." junos srx
 
 ## Talari SD-WAN
+Confidence: Certain
+
 ### Google
 * inurl: "/cgi-bin/login.cgi"
 
@@ -245,6 +267,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body: "© 2017 Talari Networks"
 
 ## Aryaka SD-WAN
+Confidence: Certain
+
 ### Aryaka Network Access Point
 #### Google 
 * intitle:"Aryaka, Welcome"
@@ -259,6 +283,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 443.https.tls.certificate.parsed.subject.organization:"Aryaka Networks, Inc."
 
 ## InfoVista SD-WAN
+Confidence: Certain
+
 ### InfoVista SALSA
 #### Google
 * inurl:"/salsa/salsa_portal/"
@@ -274,6 +300,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:0cb459544a3772af457d2538c8de21c3e287e1920b4cc3f472fcd7a85d0acb14
 
 ## Huawei SD-WAN
+Confidence: Certain
+
 ### Shodan
 * title:"Agile Controller"
 
@@ -282,6 +310,8 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 * 80.http.get.body_sha256:07f90f2912ebcf26b4b372a79e7ac91a2ff5f426e9aabc6b81b30298e18f47f6
 
 ## Sonus SD-WAN
+Confidence: Certain
+
 ### Sonus SBC Management Application
 #### Shodan
 title:"SBC Management Application"
@@ -294,11 +324,15 @@ title:"SBC Management Application"
 * 80.http.get.title: "Sonus SBC Edge Web Interface"
 
 ## Arista Networks
+Confidence: Firm
+
 ### Arista Networks EOS
 #### Shodan
 * "Arista Networks EOS"
 
 ## 128 Technology
+Confidence: Tentative
+
 ### 128 Technology Networking Platform
 #### Shodan
 * http.title:"128T Networking Platform"
@@ -308,6 +342,8 @@ title:"SBC Management Application"
 * 80.http.get.title: "128T Networking Platform"
 
 ## Glue Networks
+Confidence: Certain 
+
 ### Gluware Control
 #### Shodan
 * title:"Gluware Control"
@@ -316,6 +352,8 @@ title:"SBC Management Application"
 * 80.http.get.title: "Gluware Control"
 
 ## Barracuda Networks
+Confidence: Tentative
+
 ### Barracuda CloudGen Firewall
 #### Shodan
 * ssl:"Barracuda CloudGen Firewall" port:"443"
