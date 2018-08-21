@@ -352,11 +352,12 @@ Confidence: Certain
 * 80.http.get.title: "Gluware Control"
 
 ## Barracuda Networks
-Confidence: Tentative
+Confidence: Certain
 
 ### Barracuda CloudGen Firewall
 #### Shodan
 * ssl:"Barracuda CloudGen Firewall" port:"443"
+* "Barracuda CloudGen Firewall"
 
 #### Censys
 * "Barracuda Cloudgen Firewall"
