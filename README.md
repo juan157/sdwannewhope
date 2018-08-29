@@ -4,6 +4,9 @@ Software-defined networking in a wide area network (SD-WAN) quickly becomes very
 What do you know about SD-WAN? What the "security" means from hand-on perspective? Are present SD-WAN solutions really secure? 
 The goal of this project is to give answers on the questions by analysing different real SD-WAN solutions from the adversaries' point of view.
 
+## Papers
+* [SD-WAN Internet Census (preprint)](https://arxiv.org/abs/1808.09027)
+
 ## Resources
 * [SD-WAN Census Queries List](census.md)
 * [SD-WAN NMAP NSE Scripts](nse-scripts)
