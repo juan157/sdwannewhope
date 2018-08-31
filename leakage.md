@@ -12,7 +12,6 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [Riverbed SD-WAN](#riverbed-sd-wan)
 - [Citrix NetScaler SD-WAN](#citrix-netscaler-sd-wan)
 - [Silver Peak SD-WAN](#silver-peak-sd-wan)
-- [Juniper Networks Contrail SD-WAN](#juniper-networks-contrail-sd-wan)
 - [Talari SD-WAN](#talari-sd-wan)
 - [Sonus SD-WAN](#sonus-sd-wan)
 - [Arista Networks EOS](#arista-networks-eos)
