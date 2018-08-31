@@ -183,7 +183,7 @@ Example:
 <div id="header_app_name">EMA 6.2 <span class="header_app_name_mode">[platform mode]</span></div>
 ```
 
-## Arista Network EOS
+## Arista Networks EOS
 ### Arista Switch
 Dislosure: product version  
 Source: SNMP  
