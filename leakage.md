@@ -192,7 +192,7 @@ Example:
 Arista Networks EOS version 4.15.6M running on an Arista Networks DCS-7150S-24
 ```
 
-## Glue Networls
+## Glue Networks
 ### Gluware Control
 Dislosure: product version  
 Source: websocker
