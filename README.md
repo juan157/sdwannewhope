@@ -9,6 +9,7 @@ The goal of this project is to give answers on the questions by analysing differ
 
 ## Resources
 * [SD-WAN Census Queries List](census.md)
+* [SD-WAN Census Version Leakage List](leakage.md)
 * [SD-WAN NMAP NSE Scripts](nse-scripts)
 * [Silverpeak EdgeConnect Multiple Vulnerabilities](https://github.com/sdnewhop/sdwannewhope/blob/master/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf)
 
