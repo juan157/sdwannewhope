@@ -7,7 +7,7 @@ The most popular and known SD-WAN solutions are enumerated using search engines.
 - [VMWare NSX SD-WAN](#vmware-nsx-sd-wan)
 - [TELoIP VINO SD-WAN](#teloip-vino-sd-wan)
 - [Fatpipe SYMPHONY SD-WAN](#fatpipe-symphony-sd-wan)
-- [Cisco SD-WAN](#cisco-viptela-sd-wan)
+- [Cisco Viptela SD-WAN](#cisco-viptela-sd-wan)
 - [Versa Networks](#versa-networks)
 - [Riverbed SD-WAN](#riverbed-steelconnect)
 - [Citrix NetScaler SD-WAN](#citrix-netscaler-sd-wan)
